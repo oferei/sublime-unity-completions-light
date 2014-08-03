@@ -7,7 +7,7 @@ It works with all Unity-supported languages: JavaScript, C# and Boo.
 This is a lighter version of the <a href="https://github.com/oferei/sublime-unity-completions">Unity Completions</a> package.
 The full package shows a more detailed, easy-to-use pop-up menu for auto-completions,
 but on the other hand adds several seconds to Sublime Text's loading time.
-If you don't open and close Sublime Text quite frequently, I recommend using the full version.
+If you don't open and close Sublime Text too frequently, I recommend using the full version.
 
 ## Installation
 
