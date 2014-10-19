@@ -9,7 +9,7 @@ class UnityCompletions(sublime_plugin.EventListener):
 				return []
 
 		compl_default = [view.extract_completions(prefix)]
-		compl_default = [(item + "\tDefault", item) for sublist in compl_default
+		compl_default = [(item, item) for sublist in compl_default
 			for item in sublist if len(item) > 3]       # flatten
 		compl_default = list(set(compl_default))        # make unique
 
