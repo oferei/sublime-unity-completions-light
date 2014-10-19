@@ -1,4 +1,4 @@
-import sublime, sublime_plugin, re
+import sublime, sublime_plugin
 
 class CsharpCompletions(sublime_plugin.EventListener):
 	def on_query_completions(self, view, prefix, locations):
