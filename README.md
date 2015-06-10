@@ -81,7 +81,7 @@ Simply delete the class name manually.
 
 ## Status
 
-Up to date with Unity version 5.0.2.
+Up to date with Unity version 5.1.0.
 
 ## Generation
 
