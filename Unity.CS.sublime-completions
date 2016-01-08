@@ -5974,6 +5974,7 @@
 		{ "trigger": "GameObject.CompareTag(tag)", "contents": "GameObject.CompareTag(${1:string tag})" },
 		{ "trigger": "GameObject.CreatePrimitive(type)", "contents": "GameObject.CreatePrimitive(${1:PrimitiveType type})" },
 		{ "trigger": "GameObject.Find(name)", "contents": "GameObject.Find(${1:string name})" },
+		{ "trigger": "GameObject.FindGameObjectWithTag(tag)", "contents": "GameObject.FindGameObjectWithTag(${1:string tag})" },
 		{ "trigger": "GameObject.FindGameObjectsWithTag(tag)", "contents": "GameObject.FindGameObjectsWithTag(${1:string tag})" },
 		{ "trigger": "GameObject.FindWithTag(tag)", "contents": "GameObject.FindWithTag(${1:string tag})" },
 		{ "trigger": "GameObject(name)", "contents": "GameObject(${1:string name})" },
